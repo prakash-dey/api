@@ -1,0 +1,306 @@
+[
+    {
+        "id": 1,
+        "title": "vishwambhari Oil",
+        "price": 116,
+        "image" : "/image/r1c1.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 129,
+            "rate": 3.9
+        }
+    },
+
+    {
+        "id": 2,
+        "title": "Electrical Gadgets",
+        "price": 156,
+        "image" : "/image/rc2.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 129,
+            "rate": 4.1
+        }
+    },
+
+
+    {
+        "id": 3,
+        "title": "Winter Wear",
+        "price": 216,
+        "image" : "/image/r1c3.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 12,
+            "rate": 4.9
+        }
+    },
+    
+
+    {
+        "id": 4,
+        "title": "face cream",
+        "price": 199,
+        "image" : "/image/r1c4.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 77,
+            "rate": 4.9
+        }
+    },
+
+    {
+        "id": 5,
+        "title": "Face cover For winter",
+        "price": 116,
+        "image" : "/image/r2c1.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 108,
+            "rate": 3.3
+        }
+    },
+
+    {
+        "id": 6,
+        "title": "T- shirt",
+        "price": 196,
+        "image" : "/image/2c2.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 21,
+            "rate": 4.9
+        }
+    },
+
+
+    {
+        "id": 7,
+        "title": "SSaree",
+        "price": 278,
+        "image" : "/image/r2c3.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 57,
+            "rate": 3.9
+        }
+    },
+    
+
+    {
+        "id": 8,
+        "title": "frock",
+        "price": 139,
+        "image" : "/image/r2c4.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 77,
+            "rate": 5.0
+        }
+    },
+
+    {
+        "id": 9,
+        "title": "Frock",
+        "price": 116,
+        "image" : "/image/r3c1.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 129,
+            "rate": 3.9
+        }
+    },
+
+    {
+        "id": 10,
+        "title": "Sleeper",
+        "price": 156,
+        "image" : "/image/r3c2.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 129,
+            "rate": 4.1
+        }
+    },
+
+
+    {
+        "id": 11,
+        "title": "Shooes",
+        "price": 216,
+        "image" : "/image/r3c3.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 12,
+            "rate": 4.0
+        }
+    },
+    
+
+    {
+        "id": 12,
+        "title": "Shampoo",
+        "price": 199,
+        "image" : "/image/r3c4.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 77,
+            "rate": 4.3
+        }
+    },
+
+
+    
+    {
+        "id": 13,
+        "title": "Ladies wear",
+        "price": 116,
+        "image" : "/image/r4c1.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 19,
+            "rate": 3.9
+        }
+    },
+
+    {
+        "id": 14,
+        "title": "Diaper",
+        "price": 156,
+        "image" : "/image/r4c2.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 129,
+            "rate": 4.1
+        }
+    },
+
+
+    {
+        "id": 15,
+        "title": "Frock",
+        "price": 200,
+        "image" : "/image/r4c3.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 12,
+            "rate": 4.9
+        }
+    },
+    
+
+    {
+        "id": 16,
+        "title": "Jacket",
+        "price": 199,
+        "image" : "/image/r4c4.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 77,
+            "rate": 4.9
+        }
+    },
+
+    {
+        "id": 18,
+        "title": "grinder",
+        "price": 116,
+        "image" : "/image/r5c1.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 150,
+            "rate": 3.3
+        }
+    },
+
+    {
+        "id": 19,
+        "title": "Milk",
+        "price": 196,
+        "image" : "/image/r5c2.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 213,
+            "rate": 4.9
+        }
+    },
+
+
+    {
+        "id": 19,
+        "title": "Shooes",
+        "price": 278,
+        "image" : "/image/r5c3.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 57,
+            "rate": 3.9
+        }
+    },
+    
+
+    {
+        "id": 20,
+        "title": "Bag",
+        "price": 139,
+        "image" : "/image/r5c4.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 77,
+            "rate": 5.0
+        }
+    },
+
+    {
+        "id": 21,
+        "title": "Shirt",
+        "price": 116,
+        "image" : "/image/shirt.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 129,
+            "rate": 3.9
+        }
+    },
+
+    {
+        "id": 22,
+        "title": "Sleeper",
+        "price": 156,
+        "image" : "/image/skirt.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 129,
+            "rate": 4.1
+        }
+    },
+
+
+    {
+        "id": 23,
+        "title": "Shooes",
+        "price": 216,
+        "image" : "/image/r1c3.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 12,
+            "rate": 4.9
+        }
+    },
+    
+
+    {
+        "id": 24,
+        "title": "Shampoo",
+        "price": 199,
+        "image" : "/image/r1c4.jpg",
+        "discription": "this is usable product",
+        "rating": {
+            "count": 77,
+            "rate": 4.9
+        }
+    }
+
+
+    
+]
