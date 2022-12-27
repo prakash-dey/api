@@ -1,0 +1,164 @@
+[ 
+    {
+        "id": "c5740968-c2db-463e-ac00-7d531f67dd08",
+        "name": "South Africa Women\tU19 vs India Women U19, 1st T20",
+        "matchType": "t20",
+        "status": "India Women U19 won by 54 runs",
+        "venue": "LC de Villiers Oval, Pretoria",
+        "date": "2022-12-27",
+        "dateTimeGMT": "2022-12-27T08:00:00",
+        "teams": [
+            "South Africa Women\tU19",
+            "India Women U19"
+        ],
+        "shortName" : ["IND-W U19","SA-W U19"],
+        "score": [
+            {
+                "r": 137,
+                "w": 5,
+                "o": 20,
+                "inning": "India Women U19 Inning 1"
+            },
+            {
+                "r": 83,
+                "w": 8,
+                "o": 20,
+                "inning": "South Africa Women\tU19 Inning 1"
+            }
+        ]
+    },
+        {
+        "id": "6c5f4150-5050-45a8-b970-7a305a6bffc9",
+        "name": "Namibia vs Nepal, 2nd Match",
+        "matchType": "odi",
+        "status": "No result (due to rain)",
+        "venue": "Wanderers Cricket Ground, Windhoek",
+        "date": "2022-12-02",
+        "dateTimeGMT": "2022-12-02T07:30:00",
+        "teams": [
+            "Namibia",
+            "Nepal"
+        ],
+         "shortName" : ["NPL","NAM"],
+        "score": [
+            {
+                "r": 197,
+                "w": 10,
+                "o": 49.5,
+                "inning": "Nepal Inning 1"
+            },
+            {
+                "r": 4,
+                "w": 0,
+                "o": 0.4,
+                "inning": "Namibia Inning 1"
+            }
+        ]
+    },
+    {
+        "id": "75daaab6-b99e-4038-9bf2-2565ba7f49c1",
+        "name": "Nigeria vs Tanzania, 23rd Match",
+        "matchType": "t20",
+        "status": "No result (due to rain)",
+        "venue": "Gahanga International Cricket Stadium, Kigali City",
+        "date": "2022-12-08",
+        "dateTimeGMT": "2022-12-08T11:45:00",
+        "teams": [
+            "Nigeria",
+            "Tanzania"
+        ],
+         "shortName" : ["NIG","TAN"],
+        "score": [
+            {
+                "r": 101,
+                "w": 10,
+                "o": 19.4,
+                "inning": "Nigeria Inning 1"
+            },
+            {
+                "r": 19,
+                "w": 3,
+                "o": 4.3,
+                "inning": "Tanzania Inning 1"
+            }
+        ]
+    },
+    {
+        "id": "846819d5-ce9f-4a9f-a638-a3ca9d29f766",
+        "name": "Cameroon vs Eswatini, 22nd Match",
+        "matchType": "t20",
+        "status": "No result (due to rain)",
+        "venue": "Integrated Polytechnic Regional Centre, Kigali City",
+        "date": "2022-12-08",
+        "dateTimeGMT": "2022-12-08T07:30:00",
+        "teams": [
+            "Cameroon",
+            "Eswatini"
+        ],
+         "shortName" : ["ESW","CAM"],
+        "score": [
+            {
+                "r": 112,
+                "w": 6,
+                "o": 13,
+                "inning": "Eswatini Inning 1"
+            }
+        ]
+    },
+    {
+        "id": "47ccc3d3-1683-4431-8a0f-858785025e71",
+        "name": "Canterbury vs Auckland, 3rd Match",
+        "matchType": "t20",
+        "status": "Auckland won by 4 wkts",
+        "venue": "Hagley Oval, Christchurch",
+        "date": "2022-12-26",
+        "dateTimeGMT": "2022-12-26T04:30:00",
+        "teams": [
+            "Canterbury",
+            "Auckland"
+        ],
+         "shortName" : ["CAN","AKL"],
+        "score": [
+            {
+                "r": 147,
+                "w": 9,
+                "o": 20,
+                "inning": "Canterbury Inning 1"
+            },
+            {
+                "r": 149,
+                "w": 6,
+                "o": 19.3,
+                "inning": "Auckland Inning 1"
+            }
+        ]
+    },
+    {
+        "id": "22218140-5756-4898-878f-e9f7bdcf2912",
+        "name": "Goa vs Haryana, Round 7, Elite Group C",
+        "matchType": "odi",
+        "status": "Match tied (VJD)",
+        "venue": "KSCA Cricket Ground, Alur",
+        "date": "2022-11-23",
+        "dateTimeGMT": "2022-11-23T03:30:00",
+        "teams": [
+            "Goa",
+            "Haryana"
+        ],
+         "shortName" : ["GOA","HAR"],
+        "score": [
+            {
+                "r": 261,
+                "w": 9,
+                "o": 50,
+                "inning": "Goa Inning 1"
+            },
+            {
+                "r": 154,
+                "w": 5,
+                "o": 23,
+                "inning": "Haryana Inning 1"
+            }
+        ]
+    }
+    ]
