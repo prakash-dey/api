@@ -2,8 +2,8 @@
     {
         "id": 1,
         "title": "vishwambhari Oil",
-        "price": 116,
-        "image" : "/image/r1c1.jpg",
+        "price": "₹116",
+        "image" : "https://images.meesho.com/images/products/99660751/spj4h_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 129,
@@ -14,8 +14,8 @@
     {
         "id": 2,
         "title": "Electrical Gadgets",
-        "price": 156,
-        "image" : "/image/rc2.jpg",
+        "price": "₹156",
+        "image" : "https://images.meesho.com/images/products/171697777/h1y11_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 129,
@@ -27,8 +27,8 @@
     {
         "id": 3,
         "title": "Winter Wear",
-        "price": 216,
-        "image" : "/image/r1c3.jpg",
+        "price": "₹216",
+        "image" : "https://images.meesho.com/images/products/26038078/9uyfq_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 12,
@@ -40,8 +40,8 @@
     {
         "id": 4,
         "title": "face cream",
-        "price": 199,
-        "image" : "/image/r1c4.jpg",
+        "price": "₹199",
+        "image" : "https://images.meesho.com/images/products/137938719/hk6yv_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 77,
@@ -52,8 +52,8 @@
     {
         "id": 5,
         "title": "Face cover For winter",
-        "price": 116,
-        "image" : "/image/r2c1.jpg",
+        "price": "₹116",
+        "image" : "https://images.meesho.com/images/products/63012150/epii6_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 108,
@@ -64,8 +64,8 @@
     {
         "id": 6,
         "title": "T- shirt",
-        "price": 196,
-        "image" : "/image/2c2.jpg",
+        "price": "₹196",
+        "image" : "https://images.meesho.com/images/products/164013939/mzngx_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 21,
@@ -77,8 +77,8 @@
     {
         "id": 7,
         "title": "SSaree",
-        "price": 278,
-        "image" : "/image/r2c3.jpg",
+        "price": "₹278",
+        "image" : "https://images.meesho.com/images/products/49030100/j1zmg_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 57,
@@ -90,8 +90,8 @@
     {
         "id": 8,
         "title": "frock",
-        "price": 139,
-        "image" : "/image/r2c4.jpg",
+        "price": "₹139",
+        "image" : "https://images.meesho.com/images/products/17898117/fbdc9_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 77,
@@ -102,8 +102,8 @@
     {
         "id": 9,
         "title": "Frock",
-        "price": 116,
-        "image" : "/image/r3c1.jpg",
+        "price": "₹116",
+        "image" : "https://images.meesho.com/images/products/103713364/0ioi6_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 129,
@@ -114,8 +114,8 @@
     {
         "id": 10,
         "title": "Sleeper",
-        "price": 156,
-        "image" : "/image/r3c2.jpg",
+        "price": "₹156",
+        "image" : "https://images.meesho.com/images/products/164587979/mjgco_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 129,
@@ -127,8 +127,8 @@
     {
         "id": 11,
         "title": "Shooes",
-        "price": 216,
-        "image" : "/image/r3c3.jpg",
+        "price": "₹216",
+        "image" : "https://images.meesho.com/images/products/99760635/00yd5_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 12,
@@ -140,8 +140,8 @@
     {
         "id": 12,
         "title": "Shampoo",
-        "price": 199,
-        "image" : "/image/r3c4.jpg",
+        "price": "₹199",
+        "image" : "https://images.meesho.com/images/products/165530041/psld0_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 77,
@@ -154,8 +154,8 @@
     {
         "id": 13,
         "title": "Ladies wear",
-        "price": 116,
-        "image" : "/image/r4c1.jpg",
+        "price": "₹116",
+        "image" : "https://images.meesho.com/images/products/32768758/y5lju_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 19,
@@ -166,8 +166,8 @@
     {
         "id": 14,
         "title": "Diaper",
-        "price": 156,
-        "image" : "/image/r4c2.jpg",
+        "price": "₹156",
+        "image" : "https://images.meesho.com/images/products/66646100/5nzbw_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 129,
@@ -178,9 +178,9 @@
 
     {
         "id": 15,
-        "title": "Frock",
-        "price": 200,
-        "image" : "/image/r4c3.jpg",
+        "title": "Lower",
+        "price": "₹200",
+        "image" : "https://images.meesho.com/images/products/73431865/mvchh_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 12,
@@ -192,8 +192,8 @@
     {
         "id": 16,
         "title": "Jacket",
-        "price": 199,
-        "image" : "/image/r4c4.jpg",
+        "price": "₹199",
+        "image" : "https://images.meesho.com/images/products/106265043/ubgql_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 77,
@@ -204,8 +204,8 @@
     {
         "id": 18,
         "title": "grinder",
-        "price": 116,
-        "image" : "/image/r5c1.jpg",
+        "price": "₹116",
+        "image" : "https://images.meesho.com/images/products/61818238/41bmh_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 150,
@@ -216,7 +216,7 @@
     {
         "id": 19,
         "title": "Milk",
-        "price": 196,
+        "price": "₹196",
         "image" : "/image/r5c2.jpg",
         "discription": "this is usable product",
         "rating": {
@@ -228,9 +228,9 @@
 
     {
         "id": 19,
-        "title": "Shooes",
-        "price": 278,
-        "image" : "/image/r5c3.jpg",
+        "title": "Men Wallets",
+        "price": "₹278",
+        "image" : "https://images.meesho.com/images/products/26038078/9uyfq_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 57,
@@ -242,8 +242,8 @@
     {
         "id": 20,
         "title": "Bag",
-        "price": 139,
-        "image" : "/image/r5c4.jpg",
+        "price": "₹139",
+        "image" : "https://images.meesho.com/images/products/57409918/iucvm_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 77,
@@ -254,8 +254,8 @@
     {
         "id": 21,
         "title": "Shirt",
-        "price": 116,
-        "image" : "/image/shirt.jpg",
+        "price": "₹116",
+        "image" : "https://images.meesho.com/images/products/148828496/vfcip_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 129,
@@ -265,9 +265,9 @@
 
     {
         "id": 22,
-        "title": "Sleeper",
-        "price": 156,
-        "image" : "/image/skirt.jpg",
+        "title": "Hair Dryer",
+        "price": "₹156",
+        "image" : "https://images.meesho.com/images/products/121169087/ndy5j_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 129,
@@ -278,9 +278,9 @@
 
     {
         "id": 23,
-        "title": "Shooes",
-        "price": 216,
-        "image" : "/image/r1c3.jpg",
+        "title": "Jewellery",
+        "price": "₹216",
+        "image" : "https://images.meesho.com/images/products/51982067/juuuw_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 12,
@@ -291,9 +291,9 @@
 
     {
         "id": 24,
-        "title": "Shampoo",
-        "price": 199,
-        "image" : "/image/r1c4.jpg",
+        "title": "Clothes cover",
+        "price": "₹199",
+        "image" : "https://images.meesho.com/images/products/75788301/ra9cl_400.jpg",
         "discription": "this is usable product",
         "rating": {
             "count": 77,
