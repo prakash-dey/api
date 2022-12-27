@@ -1,0 +1,74 @@
+[
+    {
+        "State_name": "Punjab",
+        "city_name": "Mohali",
+        "place_name": "phase-7, Mohali",
+        "top_restaurant": "Singh All Rounder 24x366",
+        "item_image": "https://images.unsplash.com/photo-1576001562086-7eb4295bd29c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGZvb2QlMjByZXN0YXVyYW50JTIwcGxhY2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" ,
+        "description": "Why is this place so famous?",
+        "rating": "* ** *** *****"
+    },
+    {
+        "State_name": "Punjab",
+        "city_name": "Mohali",
+        "place_name": "phase-7, Mohali",
+        "top_restaurant": "Singh Amrit Veg Restaurant",
+        "item_image": "https://images.unsplash.com/photo-1569096651661-820d0de8b4ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudCUyMHBsYWNlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "Why is this place so famous?",
+        "rating": "* ** *** *****"
+    },
+    {
+        "State_name": "Punjab",
+        "city_name": "Mohali",
+        "place_name": "phase-44, Mohali",
+        "top_restaurant": "B7 Restaurant",
+        "item_image": "https://images.unsplash.com/photo-1555126634-323283e090fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fG1lYWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "description": "Why is this place so famous?",
+        "rating": "* ** *** *****"
+    },
+    {
+        "State_name": "Punjab",
+        "city_name": "Ludhiana",
+        "place_name": "Samrala-chownk",
+        "top_restaurant": "Uttam Sweet Restaurant",
+        "item_image": "https://plus.unsplash.com/premium_photo-1661776841313-1bd2be380a64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bWVhbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "Why is this place so famous?",
+        "rating": "* ** *** *****"
+    },
+    {
+        "State_name": "Punjab",
+        "city_name": "Ludhiana",
+        "place_name": "phase-8, Mohali",
+        "top_restaurant": "Singh All Rounder 24x366",
+        "item_image": "https://images.unsplash.com/photo-1576001562086-7eb4295bd29c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGZvb2QlMjByZXN0YXVyYW50JTIwcGxhY2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "Why is this place so famous?",
+        "rating": "* ** *** *****"
+    },
+    {
+        "State_name": "Punjab",
+        "city_name": "Ludhiana",
+        "place_name": "sector-70, mohali",
+        "top_restaurant": "Mix-veg",
+        "item_image": "https://images.unsplash.com/photo-1576001562086-7eb4295bd29c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGZvb2QlMjByZXN0YXVyYW50JTIwcGxhY2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "Why is this place so famous?",
+        "rating": "* ** *** *****"
+    },
+    {
+        "State_name": "Punjab",
+        "city_name": "Mohali",
+        "place_name": "phase-7, Mohali",
+        "top_restaurant": "Singh All Rounder 24x366",
+        "item_image": "https://images.unsplash.com/photo-1576001562086-7eb4295bd29c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGZvb2QlMjByZXN0YXVyYW50JTIwcGxhY2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "Why is this place so famous?",
+        "rating": "* ** *** *****"
+    },
+    {
+        "State_name": "Punjab",
+        "city_name": "Mohali",
+        "place_name": "phase-7, Mohali",
+        "top_restaurant": "Uttam bakery",
+        "item_image": "https://images.unsplash.com/photo-1576001562086-7eb4295bd29c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGZvb2QlMjByZXN0YXVyYW50JTIwcGxhY2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "Why is this place so famous?",
+        "rating": "* ** *** *****"
+    }
+    ]

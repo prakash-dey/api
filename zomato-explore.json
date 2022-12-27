@@ -1,0 +1,37 @@
+[
+    {
+        "Popular_dish": "chaiye",
+        "Popular_restaurant": "Singh All Rounder 24x366",
+        "Cities_Deliver_To": "Mohali"
+    },
+    {
+        "Popular_dish": "Pizza",
+        "Popular_restaurant": "Singh Amrit Veg Restaurant",
+        "Cities_Deliver_To": "Ludhiana"
+    },
+    {
+        "Popular_dish": "Burger",
+        "Popular_restaurant": "Uttam-Sweet Reataurant",
+        "Cities_Deliver_To": "Jalandhar"
+    },
+    {
+        "Popular_dish": "Roll",
+        "Popular_restaurant": "Beant Restaurant",
+        "Cities_Deliver_To": "Pathankot"
+    },
+    {
+        "Popular_dish": "Donut",
+        "Popular_restaurant": "B7 Restaurant",
+        "Cities_Deliver_To": "Hoshiarpur"
+    },
+    {
+        "Popular_dish": "Biryani Rice",
+        "Popular_restaurant": "PlS Restaurant",
+        "Cities_Deliver_To": "Amritsar"
+    },
+    {
+        "Popular_dish": "Egg Roll",
+        "Popular_restaurant": "Sunshine Restaurant",
+        "Cities_Deliver_To": "RoopNagar"
+    }
+    ]

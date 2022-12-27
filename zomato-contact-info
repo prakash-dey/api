@@ -1,0 +1,42 @@
+[
+{
+    "email": "abc@gmail.com",
+    "phone": "+91,1242143256"
+},
+{
+    "email": "cde@gmail.com",
+    "phone": "+91,8114129339" 
+},
+{
+    "email": "fgh@yahoo.com",
+    "phone": "+91,9274245139" 
+},
+{
+    "email": "ijk@gmail.com",
+    "phone": "+91,9821476519" 
+},
+{
+    "email": "jkl@yahoo.com",
+    "phone": "+91,9745892339" 
+},
+{
+    "email": "xyz@gmail.com",
+    "phone": "+91,2871648912" 
+},
+{
+    "email": "pqr@gmail.com",
+    "phone": "+91,8975947891" 
+},
+{
+    "email": "mno@gmail.com",
+    "phone": "+91,9784628791" 
+},
+{
+    "email": "usa@gmail.com",
+    "phone": "+91,5799413584" 
+},
+{
+    "email": "cva@gmail.com",
+    "phone": "+91,9517594321" 
+}
+]

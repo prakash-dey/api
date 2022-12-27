@@ -1,0 +1,42 @@
+[
+    {
+        "Restaurant_name": "Singh All Rounder 24x366",
+        "dish": "Coffie,Tea"
+    },
+   {
+        "Restaurant_name": "Singh Amrit Veg Restaurant",
+        "dish": "Pizza"
+    },
+    {
+        "Restaurant_name": "Bistro Restaurant",
+        "dish": "Burger"
+    },
+    {
+        "Restaurant_name": "Uttam Sweet Restaurant",
+        "dish": "Dinning"
+    },
+    {
+    "Restaurant_name": "Basant Restaurant",
+    "dish": "Biryani"
+    },
+    {
+
+        "Restaurant_name": "The Yellow Hills",
+        "dish": "Rolls"
+    },
+   {
+
+    "Restaurant_name": "B7 Restaurant",
+    "dish": "Coffie"
+    },
+    {
+
+        "Restaurant_name": "PLS Restaurant",
+        "dish": "Mix-veg"
+    },
+    {
+
+        "Restaurant_name": "Sunshine-Restaurant",
+        "dish": "Special-Thali"
+    }
+]
